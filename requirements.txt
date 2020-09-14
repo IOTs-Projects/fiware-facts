@@ -6,7 +6,7 @@
 # __author__ = fla
 
 oslo.config==1.13.0
-oslo.i18n==1.7.0
+oslo.i18n==5.0.1
 oslo.serialization==1.6.0
 oslo.utils==1.7.0
 redis==2.9.1
